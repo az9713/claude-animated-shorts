@@ -6,16 +6,15 @@ A dark production journal and three original cartoon shorts: a sunset style test
 
 The visual workflow was inspired by [How to Make Viral Animated Shorts Using Claude (Full Workflow)](https://www.youtube.com/watch?v=OtbLL6OBNE4). The journal cites the original YouTube video's English captions with timestamp links.
 
-Click a screenshot to open full-size playback. The adjacent native video control plays inline on GitHub; use its Play button. Inline previews are smaller copies; full-resolution originals remain available below.
+Click a screenshot to open full-size playback. The embedded preview beneath each screenshot plays inside this README; use its Play button. Inline previews are smaller copies; full-resolution originals remain available below.
 
 ## Sunset style test
 
 10.2 seconds. A small fictional deadline tests expressions, a walk, camera movement and golden light.
 
-<table>
-<tr><th>Screenshot: full-size player</th><th>Play inline</th></tr>
-<tr><td><a href="https://az9713.github.io/claude-animated-shorts/watch.html?video=sunset"><img src="screenshots/sunset.jpg" alt="Watch Sunset style test" width="240"></a></td><td><video controls width="270" src="https://raw.githubusercontent.com/az9713/claude-animated-shorts/main/previews/sunset.mp4"></video></td></tr>
-</table>
+<a href="https://az9713.github.io/claude-animated-shorts/watch.html?video=sunset"><img src="screenshots/sunset.jpg" alt="Watch Sunset style test" width="220"></a>
+
+https://github.com/user-attachments/assets/39868dea-3c68-495a-9d0e-bbe3489ce5ec
 
 [Full-resolution MP4](01-sunset-style-test.mp4) · [Production notes](production/sunset.md) · [Validation](validation/sunset.json)
 
@@ -23,10 +22,9 @@ Click a screenshot to open full-size playback. The adjacent native video control
 
 60 seconds. A copper-tube experiment explains magnetic braking, induced currents and the effect of a slit.
 
-<table>
-<tr><th>Screenshot: full-size player</th><th>Play inline</th></tr>
-<tr><td><a href="https://az9713.github.io/claude-animated-shorts/watch.html?video=magnet"><img src="screenshots/magnet.jpg" alt="Watch The Magnet That Fell in Slow Motion" width="240"></a></td><td><video controls width="270" src="https://raw.githubusercontent.com/az9713/claude-animated-shorts/main/previews/magnet.mp4"></video></td></tr>
-</table>
+<a href="https://az9713.github.io/claude-animated-shorts/watch.html?video=magnet"><img src="screenshots/magnet.jpg" alt="Watch The Magnet That Fell in Slow Motion" width="220"></a>
+
+https://github.com/user-attachments/assets/683e135f-d0ee-47a0-a7aa-10c427da5d6b
 
 [Full-resolution MP4](02-magnet-slow-motion-60s.mp4) · [Production notes](production/magnet.md) · [Validation](validation/magnet.json)
 
@@ -34,10 +32,9 @@ Click a screenshot to open full-size playback. The adjacent native video control
 
 60 seconds. A researched history story carried by the decisions and reactions of Smalls, his crew and his family.
 
-<table>
-<tr><th>Screenshot: full-size player</th><th>Play inline</th></tr>
-<tr><td><a href="https://az9713.github.io/claude-animated-shorts/watch.html?video=smalls"><img src="screenshots/smalls.jpg" alt="Watch The Captain’s Hat — Robert Smalls" width="240"></a></td><td><video controls width="270" src="https://raw.githubusercontent.com/az9713/claude-animated-shorts/main/previews/smalls.mp4"></video></td></tr>
-</table>
+<a href="https://az9713.github.io/claude-animated-shorts/watch.html?video=smalls"><img src="screenshots/smalls.jpg" alt="Watch The Captain’s Hat — Robert Smalls" width="220"></a>
+
+https://github.com/user-attachments/assets/8703a7fc-b78e-4aba-829c-ca72e9630159
 
 [Full-resolution MP4](03-robert-smalls-60s.mp4) · [Production notes](production/smalls.md) · [Validation](validation/smalls.json)
 
