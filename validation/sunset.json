@@ -1,0 +1,36 @@
+{
+  "frames": 306,
+  "size": [
+    1440,
+    2560
+  ],
+  "fps": "30/1",
+  "duration": 10.219,
+  "video_codec": "h264",
+  "audio_codec": "aac",
+  "audio_rate": "48000",
+  "spatial_luma_std_min": 43.708274841308594,
+  "luma_mean_range": [
+    106.24722290039062,
+    163.48095703125
+  ],
+  "black_frames": [],
+  "white_frames": [],
+  "frozen_spans_ge_12_frames": [],
+  "frame_difference_median": 1.1214351654052734,
+  "caption_words": 30,
+  "captions_last_end_ms": 10080,
+  "loudness": {
+    "input_i": "-15.01",
+    "input_tp": "-1.49",
+    "input_lra": "3.80",
+    "input_thresh": "-25.83",
+    "output_i": "-14.51",
+    "output_tp": "-1.50",
+    "output_lra": "2.30",
+    "output_thresh": "-25.34",
+    "normalization_type": "dynamic",
+    "target_offset": "0.51"
+  },
+  "checks": "passed"
+}
